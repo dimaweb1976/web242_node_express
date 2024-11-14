@@ -1,0 +1,28 @@
+{
+  "scripts": {
+    "start": "parcel src/index.pug",
+    "build": "parcel build src/index.pug"
+  },
+  "dependencies": {
+    "bigger-picture-fork": "^1.1.25",
+    "jquery": "^3.7.1",
+    "parcel": "^2.12.0",
+    "slider-pro": "^1.6.2",
+    "slider-pro-js": "^1.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "@babel/register": "^7.25.9",
+    "@parcel/transformer-pug": "^2.12.0",
+    "@parcel/transformer-sass": "^2.12.0",
+    "ignore-styles": "^5.0.1"
+  },
+  "name": "web242_node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
